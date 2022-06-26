@@ -22,7 +22,8 @@ TECHNOLOGIES :-
 
 
 ## Demo ##
-Here is a working live demo: https://apna-gym.netlify.app/
+* Here is a working live demo: https://apna-gym.netlify.app/
+* Demo Video: https://youtu.be/m-JZhw0XieM
 
 ## 💻 Technologies Used: ##
 
